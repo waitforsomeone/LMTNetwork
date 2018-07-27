@@ -14,7 +14,7 @@ s.homepage     = "https://github.com/waitforsomeone/LMTNetwork"
 s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 s.author             = { "waitforsomeone" => "453254593@qq.com" }
 s.platform     = :ios, "9.0"
-s.source       = { :git => "https://github.com/waitforsomeone/LMTNetwork", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/waitforsomeone/LMTNetwork.git", :tag => "#{s.version}" }
 s.source_files  = "LMTNectworkTool/*"
 s.requires_arc = true
 s.dependency 'Alamofire', '~> 4.4.0'
