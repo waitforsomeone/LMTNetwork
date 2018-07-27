@@ -17,6 +17,6 @@ s.platform     = :ios, "9.0"
 s.source       = { :git => "https://github.com/waitforsomeone/LMTNetwork.git", :tag => "#{s.version}" }
 s.source_files  = "LMTNectworkTool/*"
 s.requires_arc = true
-s.dependency 'Alamofire', '~> 4.4.0'
+#s.dependency 'Alamofire', '~> 4.4.0'
 
 end
